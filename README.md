@@ -1,18 +1,4 @@
-
-
-<!--
-**ayu2005sh/ayu2005sh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...💫 About Me:
+# 💫 About Me:
 🔭 I’m currently working on enhancing my expertise in DSA, full-stack web development, and machine learning to tackle complex real-world challenges.  <br>👯 I’m looking to collaborate on innovative open-source projects, impactful web applications, and cutting-edge AI solutions.  <br>🤝 I’m seeking mentorship and collaboration in mastering advanced machine learning algorithms and contributing to high-impact open-source communities.  <br>🌱 I’m currently diving deep into system design, competitive programming, and deep learning to refine my problem-solving skills.  <br>💬 Ask me about optimizing algorithms, building scalable web solutions, or exploring the intersections of AI and software development.  <br>⚡ Fun fact: When I’m not coding, I’m brainstorming how technology can bridge gaps and create a better future!  <br>
 
 
@@ -36,3 +22,5 @@ Here are some ideas to get you started:
 [![](https://visitcount.itsvg.in/api?id=ayu2005sh&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[ReadMe.md](https://github.com/user-attachments/files/18629506/ReadMe.md)
+
