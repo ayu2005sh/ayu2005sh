@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **ayu2005sh/ayu2005sh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
